@@ -1,0 +1,10 @@
+c:\users\oo338\documents\visual studio 2012\Projects\ApplicationDevelopmentActivity1\ApplicationDevelopmentActivity1\bin\Debug\ApplicationDevelopmentActivity1.exe.config
+c:\users\oo338\documents\visual studio 2012\Projects\ApplicationDevelopmentActivity1\ApplicationDevelopmentActivity1\obj\Debug\ApplicationDevelopmentActivity1.Form1.resources
+c:\users\oo338\documents\visual studio 2012\Projects\ApplicationDevelopmentActivity1\ApplicationDevelopmentActivity1\obj\Debug\ApplicationDevelopmentActivity1.Panel1Control.resources
+c:\users\oo338\documents\visual studio 2012\Projects\ApplicationDevelopmentActivity1\ApplicationDevelopmentActivity1\obj\Debug\ApplicationDevelopmentActivity1.Panel2Control.resources
+c:\users\oo338\documents\visual studio 2012\Projects\ApplicationDevelopmentActivity1\ApplicationDevelopmentActivity1\obj\Debug\ApplicationDevelopmentActivity1.Properties.Resources.resources
+c:\users\oo338\documents\visual studio 2012\Projects\ApplicationDevelopmentActivity1\ApplicationDevelopmentActivity1\obj\Debug\ApplicationDevelopmentActivity1.csproj.GenerateResource.Cache
+c:\users\oo338\documents\visual studio 2012\Projects\ApplicationDevelopmentActivity1\ApplicationDevelopmentActivity1\bin\Debug\ApplicationDevelopmentActivity1.exe
+c:\users\oo338\documents\visual studio 2012\Projects\ApplicationDevelopmentActivity1\ApplicationDevelopmentActivity1\bin\Debug\ApplicationDevelopmentActivity1.pdb
+c:\users\oo338\documents\visual studio 2012\Projects\ApplicationDevelopmentActivity1\ApplicationDevelopmentActivity1\obj\Debug\ApplicationDevelopmentActivity1.exe
+c:\users\oo338\documents\visual studio 2012\Projects\ApplicationDevelopmentActivity1\ApplicationDevelopmentActivity1\obj\Debug\ApplicationDevelopmentActivity1.pdb
